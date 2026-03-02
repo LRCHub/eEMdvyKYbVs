@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Grumpy",
+  "base_artist": "MAISONdes",
+  "createdAt": "2026-03-02T16:49:07.426412Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Grumpy Old Man",
+      "artist": "Remi Wolf",
+      "has_synced": true,
+      "path": "select/01_Grumpy_Old_Man_Remi_Wolf.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Grumpy Old Man",
+      "artist": "Remi Wolf",
+      "has_synced": true,
+      "path": "select/02_Grumpy_Old_Man_Remi_Wolf.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Grumpy",
+      "artist": "MAISONdes feat. haruno & Aqu3ra",
+      "has_synced": true,
+      "path": "select/03_Grumpy_MAISONdes_feat._haruno_&_Aqu3ra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Grumpy",
+      "artist": "Aqu3ra",
+      "has_synced": true,
+      "path": "select/04_Grumpy_Aqu3ra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Grumpy",
+      "artist": "MAISONdes/haruno/Aqu3ra",
+      "has_synced": true,
+      "path": "select/05_Grumpy_MAISONdes_haruno_Aqu3ra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Very Grumpy Christmas",
+      "artist": "House Of Breaking Glass",
+      "has_synced": true,
+      "path": "select/06_A_Very_Grumpy_Christmas_House_Of_Breaking_Glass.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Grumpy Old Man - Live at Electric Lady",
+      "artist": "Remi Wolf",
+      "has_synced": true,
+      "path": "select/07_Grumpy_Old_Man_-_Live_at_Electric_Lady_Remi_Wolf.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Grumpy Old Man (Live)",
+      "artist": "Remi Wolf",
+      "has_synced": true,
+      "path": "select/08_Grumpy_Old_Man_(Live)_Remi_Wolf.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Grumpy (심술)",
+      "artist": "볼빨간사춘기",
+      "has_synced": true,
+      "path": "select/09_Grumpy_(심술)_볼빨간사춘기.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Grumpy",
+      "artist": "Ray Scott",
+      "has_synced": false,
+      "path": "select/10_Grumpy_Ray_Scott.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Getting Grumpy",
+      "artist": "Vibesquad",
+      "has_synced": true,
+      "path": "select/11_Getting_Grumpy_Vibesquad.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm The Grumpy Old Troll",
+      "artist": "Dora The Explorer",
+      "has_synced": true,
+      "path": "select/12_I'm_The_Grumpy_Old_Troll_Dora_The_Explorer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Grumpy",
+      "artist": "MAISONdes feat. 春野 & Aqu3ra",
+      "has_synced": true,
+      "path": "select/13_Grumpy_MAISONdes_feat._春野_&_Aqu3ra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Grumpy",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/14_Grumpy_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Grumpy As A Grizzly Bear",
+      "artist": "StoryBots",
+      "has_synced": false,
+      "path": "select/15_Grumpy_As_A_Grizzly_Bear_StoryBots.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Grumpy Old Man",
+      "artist": "Remi Wolf",
+      "has_synced": true,
+      "path": "select/16_Grumpy_Old_Man_Remi_Wolf.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm Not So Grumpy Anymore",
+      "artist": "Dub Sweden",
+      "has_synced": false,
+      "path": "select/17_I'm_Not_So_Grumpy_Anymore_Dub_Sweden.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Grumpy",
+      "artist": "Buck 65",
+      "has_synced": false,
+      "path": "select/18_Grumpy_Buck_65.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Grumpy Joa",
+      "artist": "Minami Deutsch",
+      "has_synced": false,
+      "path": "select/19_Grumpy_Joa_Minami_Deutsch.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Grumpy",
+      "artist": "MAISONdes, haruno, Aqu3ra",
+      "has_synced": false,
+      "path": "select/pl_01_Grumpy_MAISONdes,_haruno,_Aqu3ra.txt"
+    }
+  ]
+}
